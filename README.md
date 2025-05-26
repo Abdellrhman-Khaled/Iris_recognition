@@ -101,7 +101,7 @@ The system includes scripts to evaluate:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abdellrhman-Khaled/iris-recognition.git
-   cd iris-identification-biometrics
+   cd recognition
    ```
 
 2. Open MATLAB and set the current folder to the project directory.
